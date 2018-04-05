@@ -53,8 +53,19 @@ FSDFSDFSD
 * one
     * two
     * three
+- [x] 选项一 
+- [ ] 选项二
+
+[公式标题锚点](#1)
+
+[需要跳转的目录] {#1}
+
+Markdown[^1]
+[^1]: Markdown是一种纯文本标记语言。
+
+:smile: :bowtie: :+1: :clap: :octocat:
 
 
-1. one
-    2. two
-    3. three
+***
+
+---
