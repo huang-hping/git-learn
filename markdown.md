@@ -23,7 +23,7 @@ FSDFSDFSD
 打印人日志 `console.lig('内联代码块')`，test OK
 > 链接 [百度1](http://www.baidu.com){:target="_blank"}
 
-> 邮箱 <xxx@outlook.com>
+> 邮箱 <xxx@outlook.com>`console.log(1)`
 
 > 图片 
 
@@ -58,14 +58,11 @@ FSDFSDFSD
 
 [公式标题锚点](#1)
 
-[需要跳转的目录] {#1}
-
-Markdown[^1]
-[^1]: Markdown是一种纯文本标记语言。
-
 :smile: :bowtie: :+1: :clap: :octocat:
 
 
 ***
-
 ---
+
+    fsdfds
+        fsdfsd
