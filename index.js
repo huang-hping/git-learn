@@ -9,6 +9,10 @@ gitCommit().then(data=>{
     console.log('git add error: ', error.toString())
 })
 
+function gitPush(){
+    return execGit(`push origin ${process.argv[2]}`)
+}
+
 function gitCommit(){
     return execGit(`commit -am ${process.argv[2]}`)
 }
